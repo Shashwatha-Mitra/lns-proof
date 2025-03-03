@@ -4,3 +4,6 @@ test_poly
 test_addition
 test_mult
 test_mult2
+.cache/
+.ccls-cache/
+compile_commands.json
